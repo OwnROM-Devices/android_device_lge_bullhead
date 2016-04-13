@@ -3,12 +3,12 @@
     "repository": "akhilnarang/ThugLife_bullhead",
     "target_path": "kernel/lge/bullhead",
     "remote": "github",
-    "branch": "master"
+    "revision": "master"
   },
   {
     "repository": "proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "remote": "tm",
-    "branch": "cm-13.0"
+    "revision": "cm-13.0"
   }
 ]
